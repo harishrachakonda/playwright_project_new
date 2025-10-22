@@ -1,0 +1,13 @@
+{
+  "url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "loginDetails": {
+    "username": "Admin",
+    "password": "admin123",
+    "title": "OrangeHRM"
+  },
+  "userDetails": {
+    "username": "MrBin",
+    "userRole": "Admin",
+    "status": "Enabled"
+  }
+}
